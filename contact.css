@@ -1,0 +1,77 @@
+/* name : Pratik sarkar
+    id : 2220080  */
+
+body { 
+    margin: 0px;
+    background-color: beige;
+
+}
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+h1 {
+    text-align: center;
+
+}
+h3 {
+    text-align: center;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 15px;
+    display: block;text-align: center;
+}
+
+.navbar a :hover{
+    background-color: black;
+}
+
+.navbar li{
+    float: left;
+}
+
+header{
+    font-family: "Margarine", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.RRR p{
+    font-family: "Margarine", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.XXX p{
+    font-family: "Margarine", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+footer {
+    font-family: "Margarine", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+div .RRR img {
+    display: flex;
+    float: left;
+    height: 300px;
+    width: 250px;
+}
+div .RRR1 img {
+    height: 300px;
+    width: 250px;
+}
+div .RRR1 {
+    float: right;
+}
