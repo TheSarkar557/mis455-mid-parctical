@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+    background-color: rgb(144, 146, 138);
+}
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+h1 {
+    text-align: center;
+
+}
+h3 {
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: rgb(228, 153, 69);
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a{
+}
+
+.navbar li{
+    float: left;
+}
+img {
+    height: 400px;
+}
+.headphone1 p{
+    border: 3px solid rgb(31, 29, 29);
+    background-color: rgb(235, 243, 116);
+    box-shadow: 4px 6px 3px;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    float: left;
+}
+.headphone1 p img {
+    width: 30%;
+    height: 300px;
+    float: right;
+}
+.headphone2 p{
+    border: 3px solid rgb(31, 29, 29);
+    background-color: rgb(216, 236, 102);
+    box-shadow: 4px 6px 3px;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    float: left;   
+}
+.headphone2 p img{
+    width: 30%;
+    height: 300px;
+    float: right;
+}
